@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^9.12.1",
+    "nodemon": "^2.0.20",
+    "webpack": "^5.74.0",
+    "webpack-bundle-analyzer": "^4.6.1",
+    "webpack-cli": "^4.10.0"
+  }
+}

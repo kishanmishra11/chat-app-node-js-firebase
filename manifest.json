@@ -1,0 +1,8 @@
+{
+  "name": "chat-app",
+  "short_name": "chat-app",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "gcm_sender_id": "528502713683"
+}

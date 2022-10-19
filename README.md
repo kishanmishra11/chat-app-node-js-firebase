@@ -13,7 +13,3 @@ I developed the Chat app using pure Javascript and firebase database. The interf
 9. Push Notifications 
 10. Send Friend Request
 
-If you are interested that how to build this app, please follow my Youtube channel.
-
-https://www.youtube.com/watch?v=RMvGcZfvj-8&list=PLa7L_AAYTxnX4jE6gIUkxBsqtPlFyt2Cn&index=1
-
